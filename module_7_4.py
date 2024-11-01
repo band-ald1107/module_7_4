@@ -38,5 +38,5 @@ class WordsFinder:
 
 finder2 = WordsFinder('text1.txt')
 print(finder2.get_all_words())
-print(finder2.find('fearful'))
-print(finder2.count('heart'))
+print(finder2.find('FEARFUL'))
+print(finder2.count('heART'))
